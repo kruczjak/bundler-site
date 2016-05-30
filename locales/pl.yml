@@ -1,0 +1,19 @@
+---
+pl:
+  home:
+    bundler_info1: |
+      Bundler dostarcza spójne środowisko dla projektów Ruby poprzez śledzenie
+      i instalację właściwych gemów i ich wersji.
+    bundler_info2: |
+      Bundler is an exit from dependency hell, and ensures that the gems
+      you need are present in development, staging, and production.
+      Starting work on a project is as simple as <code>bundle install</code>.
+    how_bundler_work_button: Jak bundler działa?
+    getting_started: Jak rozpocząć?
+    getting_started_description: |
+      Rozpoczęcie pracy z bundler'em jest bardzo proste! Otwórz terminal i uruchom tą komendę:
+    getting_started_description2: |
+      Określ zależności w Gemfile'u znajdującym się w głównym katalogu Twojego projektu:
+    learn_more_gemfile: "Learn More: Gemfiles"
+    bundle_install_description: "Install all of the required gems from your specified sources:"
+    learn_more_bundle_install: "Learn More: bundle install"
